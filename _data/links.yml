@@ -319,11 +319,11 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 北邮校园
+  - name: 随便一看
     links:
-    - name: 北邮官网
+    - name: 喷嚏网
       style: basic
-      url: https://www.bupt.edu.cn/
+      url: https://www.dapenti.com/blog/index.asp
 
     # - name: 本科教务系统
     #   style: basic
